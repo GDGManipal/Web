@@ -1,11 +1,16 @@
 *{
 	background-color: blue;
 }
+h1{
+	background-color: red;
+}
 .Heading{
 	text-align: center;
+	background-color: red;
 	font-family: arial;
 	margin: 0;
 	padding: 10px;
+
 }
 .para1{
 	font-size: 28px;

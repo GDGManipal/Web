@@ -3,4 +3,33 @@ Sudarshan Sunder
 Sukriti Paul
 Arjun Narayan
 Srishti Majumder
+<<<<<<< HEAD
 
+=======
+Bhargav Karanam 
+Aayushi Verma
+Moinak Mukherjee
+Aneesh Bose
+Nihar Rao
+Aditya Giridharan
+Shatabdi Chaudhuri
+Ujjwal Kumar
+Ruchir Sinha
+Aditya Jajodia
+Aman Singh Thakur
+Medha Bhargava
+Saahil Shroff
+Ayush Garg
+Aayush Sachdev
+thisissaqib
+Deepanwita Roy
+Aman Singh
+Ashish Kalra
+Poorvi Hegde
+Mayank Gupta
+Bhavya Shah
+Hamsa Bharathi
+Samarth Sharma
+Tarun Dang
+Rohan
+>>>>>>> 495fcf1446baef42bfd04c9da89f956cddd3a11b

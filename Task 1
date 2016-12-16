@@ -1,0 +1,5 @@
+Make an HTML page whose background color is blue. The page should have a heading that reads GDG Manipal and should be center aligned. After the heading, insert three paras each with a different font size and font color. The heading's font should be arial. 
+Create a folder, add your task files to that folder and push the folder to your fork of the GDG repo and make a pull request
+You'll need Git Bash if you're using Windows for this. Download it from here
+git-scm.com/downloads
+Google how to push files to Git

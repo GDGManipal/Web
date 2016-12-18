@@ -1,0 +1,79 @@
+ #top-div {
+ 	position: absolute;
+ 	float: left;
+ 	top: 0;
+ 	left: 0;
+ 	height: 33.33%;
+ 	width: 100%;
+ 	background-color: #000080;
+ 	font-family: serif;
+	font-size: 200%;
+	color: 	#F0FFFF;
+ }
+
+#mid-div {
+ 	position: absolute;
+ 	float: left;
+ 	top: 33.33%;
+ 	left: 0;
+ 	height: 33.33%;
+ 	width: 100%;
+ 	background-color: #663399;	
+ }
+
+#bottom-div {
+ 	position: absolute;
+ 	float: left;
+ 	top: 66.66%;
+ 	left: 0;
+ 	height: 33.33%;
+ 	width: 100%;
+ 	background-color: #9932CC;
+ }
+
+.shape-color {
+	background-color: #00FF7F;
+}
+
+ #circ {
+ 	position: relative;
+ 	float: left;
+ 	border-radius: 100%;
+ 	border-width: 1px;
+ 	top: 25%;
+ 	left: 15%;
+ 	width: 10%;
+ 	height: 60%; 	
+ }
+
+ #sq{
+ 	position: relative;
+ 	float: left;
+ 	border-width: 1px;
+ 	top: 25%;
+ 	left: 20%;
+ 	width: 10%;
+ 	height: 60%;
+ }
+
+ #rect{
+ 	position: relative;
+ 	float: left;
+ 	border-width: 1px;
+ 	top: 25%;
+ 	left: 25%;
+ 	width: 45%;
+ 	height: 60%;
+ }
+
+ #img-box{
+ 	position: relative;
+ 	float: left;
+ 	border-width: 1px;
+ 	top: 20%;
+ 	left: 40%;
+ 	width: 10%;
+ 	height: 60%;
+ 	background-color: yellow;
+ }
+

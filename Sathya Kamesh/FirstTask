@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      GDG Manipal
+    </title>
+    <style>
+        body {
+    		background: blue;
+		}
+
+		h1 {
+			text-align: center;
+    		color: green;
+    		font-family: arial;
+		}
+		.p1{
+			color:red;
+			font-family: verdana;
+			font-size: 100%;
+		}
+		.p2{
+			color:orange;
+			font-family: courier;
+			font-size: 140%;
+		}
+		.p3{
+			color:black;
+			font-family: arial;
+			font-size: 180%;
+		}
+	</style>
+  </head>
+  <body >
+      <h1>GDG Manipal</h1>
+      <p class='p1'>Google Developer Groups (GDGs) are for developers who are interested in Google's developer technology; everything from the Android, Chrome, Drive, and Google Cloud platforms, to product APIs like the Cast API, Maps API, and YouTube API.</p>
+      <br>
+      <p class='p2'>A GDG can take many forms -- from just a few people getting together to watch our latest video, to large gatherings with demos and tech talks, to events like code sprints and hackathons. However, at the core, GDGs are focused on developers and technical content, and the core audience should be developers.</p>
+      <br>
+      <p class='p3'>And this is how stuff is done =P</p>
+  </body>
+</html>

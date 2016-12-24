@@ -1,0 +1,72 @@
+<!DOCTYPE html> 
+<html>
+<head>
+  <style>
+  body{
+  	background-color: rgb(187, 66, 255);
+    margin: 5%;
+  }
+  .form{
+  	border-style: solid;
+  	border-width: 3px;
+    border-color: red;
+  	padding: 1.5%;
+  	width: 33.3%;
+  	background-color: white;
+  	margin: 0 auto;
+  	text-align: left;
+  	font-size: 16px;
+  }
+  #sub {
+    background-color: blue; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  #re {
+    background-color: blue; /* Green */
+    border: none;
+    color: white;
+    padding: 14px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  #heading{
+  	text-align: center;
+  	color:green;
+  }
+  </style>
+</head>
+<body>
+	<div class="form">
+	<h1 id='heading'>Registration</h1>
+	<form>
+  	<input type="text" name="email" placeholder="Email ID"><br>
+ 	<br>
+  	<input type="text" name="uname" placeholder="Username"><br><br>
+  	<input type="text" name="pword" placeholder="Password"><br><br>
+  	<input type="radio" name="gender" value="male" checked> Male
+  	<input type="radio" name="gender" value="female"> Female 
+ 	<input type="radio" name="gender" value="other"> Other
+ 	<br><br>
+ 	<select id ="select" name="Prof">
+ 	<option value="Profession" selected>Profession</option>
+    <option value="Engineer">Engineer</option>
+    <option value="Doctor">Doctor</option>
+    <option value="Lawyer">Lawyer</option>
+    <option value="Editor">Editor</option>
+  	</select><br><br>
+  	<textarea name="message" rows="5" cols="40" placeholder="About Yourself...">
+	</textarea><br><br>
+	<input id="sub" type="submit" value="Submit">
+	<input id="re" type="reset" value="Reset">
+	</form>
+	</div>
+</body>
+</html>

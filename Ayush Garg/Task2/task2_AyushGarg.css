@@ -1,0 +1,47 @@
+.custom-color-1{
+	background-color: #2021ae;
+}
+.custom-color-2{
+	background-color: #6263b7;
+}
+.layer{
+	margin: 0;
+	padding: 2.5%;
+}
+.custom-container{
+	margin-left: 0;
+	margin-right: 0;
+	width: 100%;
+	padding:0; 
+}
+.circle{
+	width: 100px;
+	height: 100px; 
+	background: #2021ae; 
+	-moz-border-radius: 50px; 
+	webkit-border-radius: 50px; 
+	border-radius: 50px;
+	margin: 1%;
+}
+.suare{
+	width: 100px;
+	height: 100px;
+	background: #2021ae;
+	margin: 1%;
+}
+.rect{
+	width: 300px;
+	height: 100px;
+	background:#2021ae;
+	margin: 1%;
+}
+.custom-img{
+	width: 300px;
+	height: 300px;
+}
+p{
+	color: white;
+}
+body{
+	width: 100%;
+}

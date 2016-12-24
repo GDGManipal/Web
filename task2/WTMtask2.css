@@ -1,0 +1,57 @@
+.one
+{
+	background-color: #59a6a6;
+	height: 215px;
+	width: 100%;
+	font-size: 25px;
+}
+.two
+{
+	background-color: #4db3b3;
+	height: 215px;
+}
+.three 
+{
+	background-color:#40bfbf;
+	height: 215px;
+
+}
+
+div div img
+{
+
+	height: 150px;
+	margin-left: 100px;
+	margin-top: 30px;
+	border-radius: 50%;
+	float: left;
+}
+
+#rec
+{
+	background-image: url(gdg3.png);
+	width: 27.5%;
+	height: 60%;
+	margin-right: 100px;
+	float: right;
+	margin-top: 40px;
+}
+
+#sq
+{
+	background-image: url(gdg1.png);
+	float: left;
+	margin-left:250px;
+	width: 12%;
+	height: 74%; 
+	margin-top: 30px;
+}
+
+div img
+{
+	/*margin: auto;*/
+	margin-left: 44%;
+	padding: 5px;
+	margin-top: 1%;
+	height: 80%;
+}

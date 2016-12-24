@@ -1,0 +1,16 @@
+body{
+	background-color: #39bcd8;
+}
+h1{
+	color: orange;
+	text-align: center;
+}
+.center-align{
+	text-align: center;
+}
+.custom-col-white{
+	background-color: white;
+}
+.buff{
+	height: 50px;
+}

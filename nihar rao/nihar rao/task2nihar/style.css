@@ -1,0 +1,77 @@
+body,head{
+
+	
+	overflow:auto;
+
+
+
+}
+	.header{
+
+		background-color: #34495E  ;
+
+	}
+
+ 	p
+      {
+        font-size: 5em;
+        margin: 0;
+      }
+      .zip
+      {
+        margin: 0;
+        
+       
+      }
+      .second
+      {
+        float: left;
+      }
+      .left
+      {
+        margin-left: 200px;
+        background-color: #ABEBC6  ;
+        width: 100px;
+        height: 100px;
+        float: left;
+      }
+      .middle
+      {
+        margin-left: 200px;
+        background-color: #ABEBC6  ;
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        float:left;
+      }
+      .right
+      {
+        margin-left: 200px;
+        position: fixed;
+        right: 200px;
+        background-color: #ABEBC6  ;
+        width: 300px;
+        height: 100px;
+      }
+      
+      .miser{
+      	background-color: red;
+      	height: 100px;
+      }
+      .yolo{
+
+      	background-color: #CCD1D1  ;
+      	height: 500px;
+
+      }
+      
+      img{
+      	
+      	
+      	height: 300px;
+      	width: 	300px ;
+      	position: fixed;
+      	right: 50px;
+
+
+      }

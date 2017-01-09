@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Form Submit</title>
+    <meta charset="UTF=8">
+    <link href="/root/Documents/GDG/stylesheet.css" type="text/css" rel="stylesheet">
+  </head>
+
+  <body id="body">
+    <div class="form">
+      <h2 id="h2">Register</h2>
+      <form>
+      <input class="text" placeholder="Username" type="text" name="Uname" size="30" autofocus,required><br>
+      <input class="text" placeholder="Email" type="Email" name="mail" size="30"><br>
+      <input class="text" placeholder="Password" type="password" name="psw" size="30" required> <br>
+      <input type="radio" name="gender" value="Male"> Male
+      <input id="gen" type="radio" name="gender" value="Female"> Female<br>
+      <select id="pro" name="profession">
+        <option value="Profession" selected>Profession</option>
+        <option value="Student">Student</option>
+        <option value="Teacher">Teacher</<option>
+        <option value="Professor">Professor</option>
+        <option value="Business">Business</option>
+      </select><br>
+      <textarea class="text" name="About" rows="8" cols="35" placeholder="About yourself"></textarea><br>
+      <input type="submit" value="Submit" class="btn">
+      <input type="reset" value="Reset" class="btn"><br>
+      </form>
+    </div>
+  </body>
+
+</html>

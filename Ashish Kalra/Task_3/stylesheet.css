@@ -1,0 +1,47 @@
+#body{
+  background-color: #3399ff;
+}
+
+#h2{
+  color: #ffcc00;
+  font-family: Courier;
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.form{
+  text-align: left;
+  font-size: 15px;
+  margin: 75px 50px 75px 500px;
+  border-top: 10px;
+  padding: 10px 40px 40px 30px;
+  background-color: white;
+  height: 400px;
+  width: 300px;
+  position: relative;
+}
+#pro{
+  margin-left: 6px;
+  background-size: cover;
+
+}
+
+.text{
+    margin: 7px 7px 7px 7px;
+    border-width: 1px;
+    border-color: #c2c2a3;
+    background-color: white;
+    color: #555f70;
+}
+.btn{
+  background-color: #3399ff;
+  font-size: 18px;
+  color: white;
+}
+#gen{
+  margin-left: 15px;
+  margin-bottom: 7px;
+  margin-top: 7px;
+}
